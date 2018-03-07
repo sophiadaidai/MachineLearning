@@ -1,3 +1,3 @@
 # MachineLearning
 
-This folder includes some machine learning mini-project practices in python (using packages like sklearn and nltk)
+This folder includes some machine learning mini projects in python (using packages like sklearn and nltk).
